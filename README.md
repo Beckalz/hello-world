@@ -2,5 +2,5 @@
 
 Hello!
 
-My name is Rebecca. I love programming in C++ and am begining to play around with Java as well.
-I'm currently taking a Server-sode Web Pogramming class!
+My name is Rebecca and I'm a Computer Science major at SJSU. My strongest language's are currently C++
+and Java but I also have some Assembly experience. 
